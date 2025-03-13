@@ -8,8 +8,6 @@ const Hero = () => {
     <>
       <section className="mt-36">
         <div className="grid grid-cols-1 md:grid-cols-2">
-       
-
           <div className="p-10 sm:p-10 md:p-15 lg:p-30 xl:p-36">
             <motion.img
               src={Logo}
@@ -27,7 +25,7 @@ const Hero = () => {
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos
               fugit sed adipisci officia temporibus nihil dolores perspiciatis
               beatae inventore magnam. Quos, aliquam harum beatae natus fugit
-              facilis debitis ex eius.
+              facilis debitis ex eius. dasdasddasd
             </motion.p>
             <motion.div
               className="flex justify-center gap-4"
